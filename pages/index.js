@@ -605,12 +605,22 @@ const Home = (props) => {
               <div className="home-list1">
                 <h3 className="home-heading7">For Hackers</h3>
                 <div className="home-items">
-                  <button className="home-link19 button-clean button">
+                  <a
+                    href="/about"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home-link21 button-clean button"
+                  >
                     About
-                  </button>
-                  <button className="home-link20 button-clean button">
+                  </a>
+                  <a
+                    href="/register"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home-link21 button-clean button"
+                  >
                     Register
-                  </button>
+                  </a>
                   <a
                     href="/resources"
                     target="_blank"
@@ -619,9 +629,14 @@ const Home = (props) => {
                   >
                     Hacker Manual
                   </a>
-                  <button className="home-link22 button-clean button">
+                  <a
+                    href="/partner"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home-link21 button-clean button"
+                  >
                     Partner
-                  </button>
+                  </a>
                 </div>
               </div>
               <div className="home-list2">
@@ -643,12 +658,25 @@ const Home = (props) => {
                   >
                     Keypom Builders
                   </a>
+                  <a
+                    href="/partner"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home-link24 button-clean button"
+                  >
+                    Sponsor
+                  </a>
                   <button className="home-link25 button-clean button">
                     Sponsor
                   </button>
-                  <button className="home-link26 button-clean button">
+                  <a
+                    href="/telegram"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home-link24 button-clean button"
+                  >
                     Announcements
-                  </button>
+                  </a>
                 </div>
               </div>
             </div>
