@@ -2,7 +2,7 @@ import { useEffect } from "react";
 
 const RedirectLinks = {
   "/telegram": "https://nearbuilders.com/tg-builders",
-    "/register": "",
+    "/register": "https://lu.ma/abstract",
           "/resources": "https://nearbuilders.com/abstraction",
             "/tg-keypom": "https://nearbuilders.com/tg-keypom",
             "/builddao": "https://nearbuilders.com/tg-builders",
