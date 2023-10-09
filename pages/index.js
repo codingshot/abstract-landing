@@ -182,8 +182,8 @@ const Home = (props) => {
             <div className="home-step">
               <span className="home-caption1">October - November</span>
               <div className="home-heading2">
-                <h2 className="home-header03">Education + Workshops</h2>
-                <p className="home-header04">Weeks of exicting workshops on </p>
+                <h2 className="home-header03">Education + Workshops + NEARCON</h2>
+                <p className="home-header04">Weeks of exicting workshops on Metatransactions, Keypom, Remote Accounts, BOS + more. Building at NEARCON. Also check out existing hackathons like Encode Club, and local Hackbox Cohort. </p>
               </div>
             </div>
             <div className="home-step1">
@@ -191,7 +191,7 @@ const Home = (props) => {
               <div className="home-heading3">
                 <h2 className="home-header05">Hackathon</h2>
                 <p className="home-header06">
-                  <span>Hackathon with office hours. </span>
+                  <span>Prizes announced, Team formation. Office hours, and the hackathon begins! </span>
                   <br></br>
                 </p>
               </div>
@@ -202,7 +202,7 @@ const Home = (props) => {
                 <h2 className="home-header07">Judging + Prizes</h2>
                 <p className="home-header08">
                   <span>
-                    3 days of judging.
+                    3 days of judging and prizes will be dished out. 
                     <span
                       dangerouslySetInnerHTML={{
                         __html: ' ',
