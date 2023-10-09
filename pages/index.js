@@ -3,6 +3,7 @@ import Head from 'next/head'
 
 import Script from 'dangerous-html/react'
 
+
 const Home = (props) => {
   return (
     <>
@@ -162,7 +163,16 @@ const Home = (props) => {
             </p>
           </div>
           <div className="home-buttons">
-            <button className="button">Register</button>
+            { false && <button className="button">Register</button>}
+            <a
+  href="https://lu.ma/event/evt-0B6b1x2nyLLfZzv"
+  class="button luma-checkout--button"
+  data-luma-action="checkout"
+  data-luma-event-id="evt-0B6b1x2nyLLfZzv"
+>
+  Register
+</a>
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
             <a
               href="/about"
               target="_blank"
