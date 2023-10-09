@@ -296,7 +296,7 @@ const Home = (props) => {
                 <div className="home-image07">
                   <img
                     alt="BuildDAO"
-                    src="https://cdn1.telegram-cdn.org/file/DPWxTsLTTXpwEW07-n2Lga_5PaBW0pHxLsoMrk1Lw_Ds6nXLZqgQNPw-SG7s3YYfFSG0C88-c-v9hxPjUbhMziCCa9TSm0L9enLX-8-GDuConRIbszyGurWHQe_eFReJO-tvcTtSj6W_wlMV4Mg2FYsR_BQHDE86R7Xb7qrer7nxS1ClwScAjo7_SfXfUxmLNFhCIJXAbJ_vws-3JBXmJgWswexGZe6wS0IWItVOCFt7SRFZrkmE3Qnx62ZDCw6gcsKKChvacDdV2W6h4HYycs_9I32QC9wKWDxMTxqeW71c6QjCxQGvaB1YHOcVrKBQ_jEBWHP5vqB-uGFraPsXbg.jpg"
+                    src="https://pbs.twimg.com/profile_images/1690850854457204736/KUXVTpZt_400x400.png"
                     className="home-image08"
                   />
                 </div>
@@ -374,6 +374,24 @@ const Home = (props) => {
                 </div>
                 <div className="home-content08">
                   <h3 className="home-title07">NEAR Vietnam</h3>
+                </div>
+              </div>
+            </a>
+            <a
+              href="https://herewallet.app"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              <div className="home-card07">
+                <div className="home-image15">
+                  <img
+                    alt="image"
+                    src="https://pbs.twimg.com/profile_images/1545154799699640321/4GoTucoZ_400x400.jpg"
+                    className="home-image16"
+                  />
+                </div>
+                <div className="home-content08">
+                  <h3 className="home-title07">HERE Wallet</h3>
                 </div>
               </div>
             </a>
