@@ -193,7 +193,7 @@ const Home = (props) => {
               <span className="home-caption1">October - November</span>
               <div className="home-heading2">
                 <h2 className="home-header03">Education + Workshops + NEARCON</h2>
-                <p className="home-header04">Weeks of exicting workshops on Metatransactions, Keypom, Remote Accounts, BOS + more. Building at NEARCON. Also check out existing hackathons like Encode Club, and local Hackbox Cohort. </p>
+                <p className="home-header04">Weeks of exciting workshops on Metatransactions, Keypom, Remote Accounts, BOS + more. AA track for hackers at NEARCON. Also check out existing hackathons like Encode Club, and local Hackbox Cohort. </p>
               </div>
             </div>
             <div className="home-step1">
