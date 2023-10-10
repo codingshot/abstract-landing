@@ -495,10 +495,7 @@ const Home = (props) => {
                   data-role="accordion-content"
                   className="home-description1"
                 >
-                  Yes, however their is a BOS track for building decentralized
-                  front ends related to account abstraction. Additionally using
-                  remote accounts or even leveraging NEAR&apos;s account model,
-                  one can build a solution that leverages multichain.
+                 Yes, however, there is a BOS track for building decentralized front ends related to account abstraction. Additionally using remote accounts or even leveraging NEAR&apos;s account model, one can build a solution that leverages multichain.
                 </span>
               </div>
               <div className="home-icon-container1">
