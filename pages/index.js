@@ -166,7 +166,7 @@ const Home = (props) => {
             { false && <button className="button">Register</button>}
             <a
   href="https://lu.ma/event/evt-0B6b1x2nyLLfZzv"
-  class="button luma-checkout--button"
+  className="button"
   data-luma-action="checkout"
   data-luma-event-id="evt-0B6b1x2nyLLfZzv"
 >
