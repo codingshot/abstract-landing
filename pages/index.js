@@ -280,7 +280,7 @@ const Home = (props) => {
               </div>
             </a>
             <a
-              href="https://onboardao.org"
+              href="https://onboarddao.org"
               target="_blank"
               rel="noreferrer noopener"
             >
