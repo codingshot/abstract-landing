@@ -280,6 +280,24 @@ const Home = (props) => {
               </div>
             </a>
             <a
+              href="https://onboardao.org"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              <div className="home-card01">
+                <div className="home-image03">
+                  <img
+                    alt="image"
+                    src="https://pbs.twimg.com/profile_images/1645034489477832704/gEH70pNj_400x400.jpg"
+                    className="home-image04"
+                  />
+                </div>
+                <div className="home-content02">
+                  <h3 className="home-title01">Onboard DAO</h3>
+                </div>
+              </div>
+            </a>
+            <a
               href="https://shard.dog/"
               target="_blank"
               rel="noreferrer noopener"
