@@ -297,7 +297,7 @@ const Home = (props) => {
                 </div>
               </div>
             </a>
-            <a
+           {false && <a
               href="https://shard.dog/"
               target="_blank"
               rel="noreferrer noopener"
@@ -315,6 +315,7 @@ const Home = (props) => {
                 </div>
               </div>
             </a>
+}
             <a
               href="https://nearbuilders.com/tg-builders"
               target="_blank"
@@ -333,6 +334,7 @@ const Home = (props) => {
                 </div>
               </div>
             </a>
+            { false &&
             <a
               href="https://pagoda.co"
               target="_blank"
@@ -351,6 +353,8 @@ const Home = (props) => {
                 </div>
               </div>
             </a>
+}
+{ false &&
             <a
               href="https://keypom.xyz/"
               target="_blank"
@@ -369,6 +373,7 @@ const Home = (props) => {
                 </div>
               </div>
             </a>
+}
             <a
               href="https://linktr.ee/alejandrovb"
               target="_blank"
@@ -423,6 +428,7 @@ const Home = (props) => {
                 </div>
               </div>
             </a>
+            {false &&
             <a
               href="https://mintbase.xyz"
               target="_blank"
@@ -441,6 +447,7 @@ const Home = (props) => {
                 </div>
               </div>
             </a>
+}
             <a
               href="https://meteorwallet.app"
               target="_blank"
