@@ -49,12 +49,12 @@ const Home = (props) => {
                 Partner
               </a>
               <a
-                href="/resources"
+                href="/manual"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link02 button-clean button"
               >
-                Resources
+                Manual
               </a>
             </nav>
           </div>
@@ -122,12 +122,12 @@ const Home = (props) => {
                   Partner
                 </a>
                 <a
-                  href="/resources"
+                  href="/manual"
                   target="_blank"
                   rel="noreferrer noopener"
                   className="home-link06"
                 >
-                  Resources
+                  Manual
                 </a>
               </nav>
               <div className="home-container2">
@@ -554,12 +554,12 @@ const Home = (props) => {
                 >
                   <span>Check out our hacker guide at  </span>
                   <a
-                    href="https://abstracting/resources"
+                    href="https://abstracting/manual"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="home-link17"
                   >
-                    abstracting.org/resources
+                    abstracting.org/manual
                   </a>
                 </span>
               </div>
@@ -652,14 +652,6 @@ const Home = (props) => {
                 <h3 className="home-heading7">For Hackers</h3>
                 <div className="home-items">
                   <a
-                    href="/about"
-                    target="_blank"
-                    rel="noreferrer noopener"
-                    className="home-link21 button-clean button"
-                  >
-                    About
-                  </a>
-                  <a
                     href="/register"
                     target="_blank"
                     rel="noreferrer noopener"
@@ -668,12 +660,28 @@ const Home = (props) => {
                     Register
                   </a>
                   <a
-                    href="/resources"
+                    href="/manual"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="home-link21 button-clean button"
                   >
                     Hacker Manual
+                  </a>
+                  <a
+                    href="/resources"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home-link21 button-clean button"
+                  >
+                    Resources
+                  </a>
+                  <a
+                    href="/ideas"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home-link21 button-clean button"
+                  >
+                    Ideas
                   </a>
                   <a
                     href="/partner"
