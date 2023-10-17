@@ -158,7 +158,7 @@ const Home = (props) => {
               <span>Hacks 📦 📦</span>
             </h1>
             <p className="home-caption">
-              3 week hackathon (Nov 27 - December 17) testing the limits of
+              3 week hackathon (Jan 8 - 28th) testing the limits of
               account abstraction on NEAR Protocol. Win $10,000 in prizes
             </p>
           </div>
@@ -190,14 +190,14 @@ const Home = (props) => {
           </div>
           <div className="home-list">
             <div className="home-step">
-              <span className="home-caption1">October - November</span>
+              <span className="home-caption1">November - December</span>
               <div className="home-heading2">
                 <h2 className="home-header03">Education + Workshops + NEARCON</h2>
                 <p className="home-header04">Weeks of exciting workshops on Metatransactions, Keypom, Remote Accounts, BOS + more. AA track for hackers at NEARCON. Also check out existing hackathons like Encode Club, and local Hackbox Cohort. </p>
               </div>
             </div>
             <div className="home-step1">
-              <span className="home-caption2">November 27 - December 17th</span>
+              <span className="home-caption2">January 8th - January 28th</span>
               <div className="home-heading3">
                 <h2 className="home-header05">Hackathon</h2>
                 <p className="home-header06">
@@ -207,7 +207,7 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-step2">
-              <span className="home-caption3">December 17 - January</span>
+              <span className="home-caption3">January 28 -February 3</span>
               <div className="home-heading4">
                 <h2 className="home-header07">Judging + Prizes</h2>
                 <p className="home-header08">
