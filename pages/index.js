@@ -174,7 +174,7 @@ const Home = (props) => {
 </a>
 <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
             <a
-              href="/about"
+              href="/manual"
               target="_blank"
               rel="noreferrer noopener"
               className="home-learn button-clean button"
