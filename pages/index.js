@@ -12,7 +12,7 @@ const Home = (props) => {
           <title>Abstraction Hacks</title>
           <meta
             name="description"
-            content="Abstraction Hacks, is the 3 week online hackathon, test the limits of account abstraction on NEAR Protocol."
+            content="Abstraction Hacks (Jan 8 -28) is the 3 week online hackathon, test the limits of account abstraction on NEAR Protocol."
           />
           <meta property="og:title" content="Abstraction Hacks" />
           <meta
@@ -354,7 +354,7 @@ const Home = (props) => {
               </div>
             </a>
 }
-{ false &&
+{ true &&
             <a
               href="https://keypom.xyz/"
               target="_blank"
