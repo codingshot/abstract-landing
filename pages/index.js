@@ -628,7 +628,7 @@ const Home = (props) => {
               <div className="home-heading6">
                 <h2 className="home-logo2">📦 abstracting</h2>
                 <p className="home-caption5">
-                  3 week hackathon (Nov 27 - December 17) testing the limits of
+                  3 week hackathon (Jan 8 - 28th) testing the limits of
                   account abstraction on NEAR Protocol. Win $10,000 in prizes
                 </p>
               </div>
