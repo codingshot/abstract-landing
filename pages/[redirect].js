@@ -3,7 +3,7 @@ import { useEffect } from "react";
 const RedirectLinks = {
   "/telegram": "https://nearbuilders.com/tg-builders",
     "/register": "https://lu.ma/abstract",
-          "/manual": "https://nearbuilders.com/abstraction",
+          "/manual": "https://banyan-collective.notion.site/Abstraction-Hacks-891925a561084df291ce43c136214921?pvs=4",
           "/resources": "https://docs.google.com/document/d/1e7o3l5d8AIZ-NZmdVclVqtGTOL4_KwOvNTio4Q5-mcM/edit?usp=sharing",
             "/tg-keypom": "https://nearbuilders.com/tg-keypom",
             "/builddao": "https://nearbuilders.com/tg-builders",
