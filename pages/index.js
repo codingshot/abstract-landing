@@ -249,7 +249,7 @@ const Home = (props) => {
                 <div className="home-image01">
                   <img
                     alt="NEAR DevHub"
-                    src="https://pbs.twimg.com/profile_images/1655986271637082112/bH4MRqq9_400x400.jpg"
+                    src="https://pbs.twimg.com/profile_images/1717611145912029185/nDQLHR8w_400x400.png"
                     className="home-image02"
                   />
                 </div>
@@ -514,7 +514,7 @@ const Home = (props) => {
             >
               <div className="home-content12">
                 <span className="home-header13">
-                  Is this a NEAR based hackathon.
+                  Is this a NEAR based hackathon?
                 </span>
                 <span
                   data-role="accordion-content"
