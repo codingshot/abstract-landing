@@ -472,7 +472,7 @@ const Home = (props) => {
           </div>
         </section>
         <section className="home-faq">
-          <h2 className="home-header11">FAQ?</h2>
+          <h2 className="home-header11">FAQ</h2>
           <div className="home-accordion">
             <div
               data-role="accordion-container"
@@ -720,9 +720,6 @@ const Home = (props) => {
                   >
                     Sponsor
                   </a>
-                  <button className="home-link25 button-clean button">
-                    Sponsor
-                  </button>
                   <a
                     href="/telegram"
                     target="_blank"
