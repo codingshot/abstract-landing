@@ -11,7 +11,8 @@ const RedirectLinks = {
 "/design": "https://www.figma.com/file/8yC94X8seTrFA1x49FrbFa/Account-Abstraction-Hackathon?type=design&node-id=0%3A1&mode=design&t=cB0GbxJckqDUjEOH-1",
 "/budget": "https://docs.google.com/spreadsheets/d/1jNZYQwslDLhs3wRJgflUocDDCoNi7fOL5sJ8bz8tXD0/edit?usp=sharing",
 "/nearcon-bounty": "https://docs.google.com/document/d/1Ls88ZkMpkWnw3WiZcVfZ4K8xP2VRlB3QL9h_ed1psls/edit?usp=sharing",
-"/ideas": "https://docs.google.com/document/d/1itOxeKVt-Bpquykc-FCReN2A_yYutukHe2aGhBJJSRk/edit?usp=sharing",
+"/ideas-old": "https://docs.google.com/document/d/1itOxeKVt-Bpquykc-FCReN2A_yYutukHe2aGhBJJSRk/edit?usp=sharing",
+"/ideas": "https://banyan-collective.notion.site/Ideas-Abstraction-2834780030d74af0ae0779e32baacff4?pvs=4",
 "/nearcon-request": "https://near.social/#/devgovgigs.near/widget/gigs-board.pages.Post?id=1829",
 
 
