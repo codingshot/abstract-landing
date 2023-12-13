@@ -15,6 +15,7 @@ const RedirectLinks = {
 "/ideas": "https://banyan-collective.notion.site/Ideas-Abstraction-2834780030d74af0ae0779e32baacff4?pvs=4",
 "/nearcon-request": "https://near.social/#/devgovgigs.near/widget/gigs-board.pages.Post?id=1829",
 "/hackbox": "https://docs.google.com/document/d/1eGia7yx9VPAMoLwugAemwW9Jem1KObMvuwc3c3LvfVs/edit?usp=sharing",
+"/mintbase": "https://docs.google.com/document/d/1WG86jvDi2CmOC2lpi4vyh26EBqrxEPQqDLF9xL1Q0so/edit?usp=sharing",
 
 
       
