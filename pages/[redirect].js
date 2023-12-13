@@ -17,6 +17,7 @@ const RedirectLinks = {
 "/hackbox": "https://docs.google.com/document/d/1eGia7yx9VPAMoLwugAemwW9Jem1KObMvuwc3c3LvfVs/edit?usp=sharing",
 "/mintbase": "https://docs.google.com/document/d/1WG86jvDi2CmOC2lpi4vyh26EBqrxEPQqDLF9xL1Q0so/edit?usp=sharing",
 "/evaluation-matrix": "https://banyan-collective.notion.site/Evaluation-Matrix-fd1a4aca397345259697c89db480d407?pvs=74",
+"/hackbox-devhub": "https://near.social/devhub.near/widget/app?page=post&id=2529",
 
 
       
