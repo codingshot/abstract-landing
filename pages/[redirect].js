@@ -18,6 +18,7 @@ const RedirectLinks = {
 "/mintbase": "https://docs.google.com/document/d/1WG86jvDi2CmOC2lpi4vyh26EBqrxEPQqDLF9xL1Q0so/edit?usp=sharing",
 "/evaluation-matrix": "https://banyan-collective.notion.site/Evaluation-Matrix-fd1a4aca397345259697c89db480d407?pvs=74",
 "/hackbox-devhub": "https://near.social/devhub.near/widget/app?page=post&id=2529",
+"/schedule": "https://calendar.google.com/calendar/u/0?cid=Y19mYzMzOTYwNTJlZmQyZTdhOWJkZDk5MWJjMTdjMzZjNDg4MTI3YzYwNGVjZWZhNzU1ZWRlN2Y5ZjU3ZGZhNGRmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20",
 
 
       
