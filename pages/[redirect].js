@@ -19,6 +19,7 @@ const RedirectLinks = {
 "/evaluation-matrix": "https://banyan-collective.notion.site/Evaluation-Matrix-fd1a4aca397345259697c89db480d407?pvs=74",
 "/hackbox-devhub": "https://near.social/devhub.near/widget/app?page=post&id=2529",
 "/schedule": "https://calendar.google.com/calendar/u/0?cid=Y19mYzMzOTYwNTJlZmQyZTdhOWJkZDk5MWJjMTdjMzZjNDg4MTI3YzYwNGVjZWZhNzU1ZWRlN2Y5ZjU3ZGZhNGRmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20",
+"/vbi": "https://docs.google.com/presentation/d/1KBFgbtRUCMS35OVduxAPBClSqdgatlkw50aWNvfcbsg/edit?usp=sharing",
 
 
       
