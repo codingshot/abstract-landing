@@ -187,24 +187,18 @@ const Home = (props) => {
             <h2 className="home-header01">🗓️ Schedule</h2>
             <p className="home-header02">Team building sessions, daily office hours, weekly online workshops, and physical workshops around the world! <a href="/schedule" target="_blank">Subscribe to the Google Calendar</a></p>
             <p className="home-header06">
-            Jan 2nd at 12pm ET- Idea Sharing and Team Building Session
-Jan 4th at 12pm ET - Online Workshop Pt. 1 - “Introduction to Chain Abstraction”
-
-Jan 8th at 12pm ET - Hackathon Kick Off & Bounty Announcements 
-
-Jan 11th at 12pm ET - Online Workshop Pt. 2 - “Building Composable and Decentralized Frontends”
-
-Jan 18th at 12pm ET - Online Workshop Pt.  3 - “Data Availability & Account Aggregation
-
-Jan 22nd at 6pm ET - IRL NYC Workshop - “Introduction to Chain Abstraction”
-
-Jan 18th at 6pm PT - IRL SF Workshop - “Introduction to Chain Abstraction” by Kendall Cole, GM of Proximity Labs
-
-Jan 25th at 12pm ET - Online Workshop Pt. 4 - “zkWasm & Multi-chain Execution”
-
-Jan 28th at 11:59pm ET - Hackathon Closing Ceremony  
-
-Feb 5th at 12pm ET - Hackathon Results Announced 
+              <li>
+              <ul>Jan 2nd at 12pm ET- Idea Sharing and Team Building Session</ul>
+            <ul>Jan 4th at 12pm ET - Online Workshop Pt. 1 - “Introduction to Chain Abstraction”</ul>
+<ul>Jan 8th at 12pm ET - Hackathon Kick Off & Bounty Announcements </ul>
+<ul>Jan 11th at 12pm ET - Online Workshop Pt. 2 - “Building Composable and Decentralized Frontends”</ul>
+<ul>Jan 18th at 12pm ET - Online Workshop Pt.  3 - “Data Availability & Account Aggregation</ul>
+<ul>Jan 22nd at 6pm ET - IRL NYC Workshop - “Introduction to Chain Abstraction”</ul>
+<ul>Jan 18th at 6pm PT - IRL SF Workshop - “Introduction to Chain Abstraction” by Kendall Cole, GM of Proximity Labs</ul>
+<ul>Jan 25th at 12pm ET - Online Workshop Pt. 4 - “zkWasm & Multi-chain Execution”</ul>
+<ul>Jan 28th at 11:59pm ET - Hackathon Closing Ceremony </ul> 
+<ul>Feb 5th at 12pm ET - Hackathon Results Announced </ul>
+</li>
 </p>
           </div>
           <div className="home-list">
