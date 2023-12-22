@@ -330,7 +330,7 @@ const Home = (props) => {
             </a>
 }
             <a
-              href="https://nearbuilders.com/tg-builders"
+              href="https://nearbuilders.org"
               target="_blank"
               rel="noreferrer noopener"
             >
@@ -1262,7 +1262,7 @@ const Home = (props) => {
             align-self: flex-start;
             align-items: flex-start;
             flex-direction: row;
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: repeat(5, 1fr);
           }
           .home-card {
             width: 100%;
