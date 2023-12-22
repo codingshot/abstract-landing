@@ -187,35 +187,26 @@ const Home = (props) => {
           <div className="home-heading1">
             <h2 className="home-header01">🗓️ Schedule</h2>
             <p className="home-header02">Team building sessions, daily office hours, weekly online workshops, and physical workshops around the world! <a href="/schedule" target="_blank">Subscribe to the Google Calendar</a></p>
-            <p className="home-header02">
+            <p className="home-header06">
             Jan 2nd at 12pm ET- Idea Sharing and Team Building Session
-
-
-Jan 4th at 12pm ET - Online Workshop Pt. 1 - “Introduction to Chain Abstraction” by {person} 
-
+Jan 4th at 12pm ET - Online Workshop Pt. 1 - “Introduction to Chain Abstraction”
 
 Jan 8th at 12pm ET - Hackathon Kick Off & Bounty Announcements 
 
+Jan 11th at 12pm ET - Online Workshop Pt. 2 - “Building Composable and Decentralized Frontends”
 
-Jan 11th at 12pm ET - Online Workshop Pt. 2 - “Building Composable and Decentralized Frontends” by {person} 
+Jan 18th at 12pm ET - Online Workshop Pt.  3 - “Data Availability & Account Aggregation
 
-
-Jan 18th at 12pm ET - Online Workshop Pt.  3 - “Data Availability & Account Aggregation” by {person} 
-
-Jan 22nd at 6pm ET - IRL NYC Workshop - “Introduction to Chain Abstraction” by {person} 
+Jan 22nd at 6pm ET - IRL NYC Workshop - “Introduction to Chain Abstraction”
 
 Jan 18th at 6pm PT - IRL SF Workshop - “Introduction to Chain Abstraction” by Kendall Cole, GM of Proximity Labs
 
-
-Jan 25th at 12pm ET - Online Workshop Pt. 4 - “zkWasm & Multi-chain Execution” by {person} 
-
+Jan 25th at 12pm ET - Online Workshop Pt. 4 - “zkWasm & Multi-chain Execution”
 
 Jan 28th at 11:59pm ET - Hackathon Closing Ceremony  
 
-
 Feb 5th at 12pm ET - Hackathon Results Announced 
 </p>
-
           </div>
           <div className="home-list">
             <div className="home-step">
