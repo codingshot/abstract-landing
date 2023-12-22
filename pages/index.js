@@ -155,7 +155,7 @@ const Home = (props) => {
                 />
               </span>
               <br></br>
-              <span>Hacks 📦 📦</span>
+              <span>Hacks</span>
             </h1>
             <p className="home-caption">
               3 week hackathon (Jan 8 - 28th) testing the limits of
@@ -186,7 +186,36 @@ const Home = (props) => {
         <section className="home-roadmap">
           <div className="home-heading1">
             <h2 className="home-header01">🗓️ Schedule</h2>
-            <p className="home-header02">Jam packed next couple of months.</p>
+            <p className="home-header02">Team building sessions, daily office hours, weekly online workshops, and physical workshops around the world! <a href="/schedule" target="_blank">Subscribe to the Google Calendar</a></p>
+            <p className="home-header02">
+            Jan 2nd at 12pm ET- Idea Sharing and Team Building Session
+
+
+Jan 4th at 12pm ET - Online Workshop Pt. 1 - “Introduction to Chain Abstraction” by {person} 
+
+
+Jan 8th at 12pm ET - Hackathon Kick Off & Bounty Announcements 
+
+
+Jan 11th at 12pm ET - Online Workshop Pt. 2 - “Building Composable and Decentralized Frontends” by {person} 
+
+
+Jan 18th at 12pm ET - Online Workshop Pt.  3 - “Data Availability & Account Aggregation” by {person} 
+
+Jan 22nd at 6pm ET - IRL NYC Workshop - “Introduction to Chain Abstraction” by {person} 
+
+Jan 18th at 6pm PT - IRL SF Workshop - “Introduction to Chain Abstraction” by Kendall Cole, GM of Proximity Labs
+
+
+Jan 25th at 12pm ET - Online Workshop Pt. 4 - “zkWasm & Multi-chain Execution” by {person} 
+
+
+Jan 28th at 11:59pm ET - Hackathon Closing Ceremony  
+
+
+Feb 5th at 12pm ET - Hackathon Results Announced 
+</p>
+
           </div>
           <div className="home-list">
             <div className="home-step">
@@ -229,7 +258,7 @@ const Home = (props) => {
         </section>
         <section className="home-collection">
           <div className="home-content">
-            <span className="home-caption4">who&apos;s abstracting</span>
+            <span className="home-caption4">Who is abstracting</span>
             <div className="home-heading5">
               <h2 className="home-header09">Couldn&apos;t do it without ❤️</h2>
               <p className="home-header10">
@@ -510,6 +539,70 @@ const Home = (props) => {
             </div>
             <div
               data-role="accordion-container"
+              className="home-element accordion"
+            >
+              <div className="home-content11">
+                <span className="home-header12">
+                Will Abstraction Hacks help me find team members to build my idea or help me find a team to join
+                </span>
+                <span
+                  data-role="accordion-content"
+                  className="home-description"
+                >
+                  Yes
+                </span>
+              </div>
+              <div className="home-icon-container">
+                <svg
+                  viewBox="0 0 1024 1024"
+                  data-role="accordion-icon-closed"
+                  className="home-icon04"
+                >
+                  <path d="M213.333 554.667h256v256c0 23.552 19.115 42.667 42.667 42.667s42.667-19.115 42.667-42.667v-256h256c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-256v-256c0-23.552-19.115-42.667-42.667-42.667s-42.667 19.115-42.667 42.667v256h-256c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+                </svg>
+                <svg
+                  viewBox="0 0 1024 1024"
+                  data-role="accordion-icon-open"
+                  className="home-icon06"
+                >
+                  <path d="M213.333 554.667h597.333c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-597.333c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+                </svg>
+              </div>
+            </div>
+            <div
+              data-role="accordion-container"
+              className="home-element accordion"
+            >
+              <div className="home-content11">
+                <span className="home-header12">
+                Where can I receive technical support?
+                </span>
+                <span
+                  data-role="accordion-content"
+                  className="home-description"
+                >
+                  There are many channels to receive technical support! Start by checking out Build DAO (nearbuilders.com/tg-builders) and Keypom Builders (nearbuilders.com/tg-keypom)
+                </span>
+              </div>
+              <div className="home-icon-container">
+                <svg
+                  viewBox="0 0 1024 1024"
+                  data-role="accordion-icon-closed"
+                  className="home-icon04"
+                >
+                  <path d="M213.333 554.667h256v256c0 23.552 19.115 42.667 42.667 42.667s42.667-19.115 42.667-42.667v-256h256c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-256v-256c0-23.552-19.115-42.667-42.667-42.667s-42.667 19.115-42.667 42.667v256h-256c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+                </svg>
+                <svg
+                  viewBox="0 0 1024 1024"
+                  data-role="accordion-icon-open"
+                  className="home-icon06"
+                >
+                  <path d="M213.333 554.667h597.333c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-597.333c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"></path>
+                </svg>
+              </div>
+            </div>
+            <div
+              data-role="accordion-container"
               className="home-element1 accordion"
             >
               <div className="home-content12">
@@ -594,7 +687,7 @@ const Home = (props) => {
                 >
                   <span>Check out  </span>
                   <a
-                    href="https://abstracting.org/rules"
+                    href="https://abstracting.org/manual"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="home-link18"
@@ -628,8 +721,7 @@ const Home = (props) => {
               <div className="home-heading6">
                 <h2 className="home-logo2">📦 abstracting</h2>
                 <p className="home-caption5">
-                  3 week hackathon (Jan 8 - 28th) testing the limits of
-                  account abstraction on NEAR Protocol. Win $10,000 in prizes
+                Join this three week hackathon from Jan 8 - 28th to test the limits of Chain Abstraction! This includes multi-chain decentralized frontends, super cheap data availability, and account aggregation, and zkWASM execution! 
                 </p>
               </div>
               <div className="home-socials1">
