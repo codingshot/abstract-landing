@@ -12,12 +12,12 @@ const Home = (props) => {
           <title>Abstraction Hacks</title>
           <meta
             name="description"
-            content="Abstraction Hacks (Jan 8 -28) is the 3 week online hackathon, test the limits of account abstraction on NEAR Protocol."
+            content="Join this three week hackathon from Jan 8 - 28th to test the limits of Chain Abstraction! This includes multi-chain decentralized frontends, super cheap data availability, and account aggregation, and zkWASM execution! $10,000+ in prizes"
           />
           <meta property="og:title" content="Abstraction Hacks" />
           <meta
             property="og:description"
-            content="Abstraction Hacks, is the 3 week online hackathon, test the limits of account abstraction on NEAR Protocol."
+            content="Join this three week hackathon from Jan 8 - 28th to test the limits of Chain Abstraction! This includes multi-chain decentralized frontends, super cheap data availability, and account aggregation, and zkWASM execution! $10,000+ in prizes"
           />
         </Head>
         <header data-thq="thq-navbar" className="home-navbar">
@@ -158,8 +158,7 @@ const Home = (props) => {
               <span>Hacks</span>
             </h1>
             <p className="home-caption">
-              3 week hackathon (Jan 8 - 28th) testing the limits of
-              account abstraction on NEAR Protocol. Win $10,000 in prizes
+            Join this three week hackathon from Jan 8 - 28th to test the limits of Chain Abstraction! This includes multi-chain decentralized frontends, super cheap data availability, and account aggregation, and zkWASM execution! 
             </p>
           </div>
           <div className="home-buttons">
