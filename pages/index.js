@@ -275,6 +275,24 @@ const Home = (props) => {
               </div>
             </a>
             <a
+              href="https://www.developerdao.com/"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              <div className="home-card01">
+                <div className="home-image03">
+                  <img
+                    alt="image"
+                    src="https://pbs.twimg.com/profile_images/1562502075841294340/CHWxD9GV_400x400.jpg"
+                    className="home-image04"
+                  />
+                </div>
+                <div className="home-content02">
+                  <h3 className="home-title01">Developer DAO</h3>
+                </div>
+              </div>
+            </a>
+            <a
               href="https://banyan.gg"
               target="_blank"
               rel="noreferrer noopener"
