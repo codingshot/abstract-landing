@@ -41,12 +41,12 @@ const Home = (props) => {
                 Register
               </a>
               <a
-                href="/partner"
+                href="/calendar"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link01 button-clean button"
               >
-                Partner
+                Calendar
               </a>
               <a
                 href="/manual"
@@ -778,12 +778,12 @@ const Home = (props) => {
                     Ideas
                   </a>
                   <a
-                    href="/partner"
+                    href="/calendar"
                     target="_blank"
                     rel="noreferrer noopener"
                     className="home-link21 button-clean button"
                   >
-                    Partner
+                    Calendar
                   </a>
                 </div>
               </div>
