@@ -459,7 +459,7 @@ const Home = (props) => {
                 </div>
               </div>
             </a>
-            {false &&
+            {true &&
             <a
               href="https://mintbase.xyz"
               target="_blank"
