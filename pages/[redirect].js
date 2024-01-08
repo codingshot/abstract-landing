@@ -22,7 +22,7 @@ const RedirectLinks = {
 "/calandar": "https://calendar.google.com/calendar/u/0?cid=Y19mYzMzOTYwNTJlZmQyZTdhOWJkZDk5MWJjMTdjMzZjNDg4MTI3YzYwNGVjZWZhNzU1ZWRlN2Y5ZjU3ZGZhNGRmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20opens",
 "/schedule": "https://calendar.google.com/calendar/u/0?cid=Y19mYzMzOTYwNTJlZmQyZTdhOWJkZDk5MWJjMTdjMzZjNDg4MTI3YzYwNGVjZWZhNzU1ZWRlN2Y5ZjU3ZGZhNGRmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20",
 "/vbi": "https://docs.google.com/presentation/d/1KBFgbtRUCMS35OVduxAPBClSqdgatlkw50aWNvfcbsg/edit?usp=sharing",
-"/kickoff": "https://us02web.zoom.us/j/85959033268?pwd=R2JJcUFRUW0wYmFFUlZFaW5GcktGUT09",
+"/kickoff": "https://youtu.be/vxrPyNHczgI",
 
 
       
