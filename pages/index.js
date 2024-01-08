@@ -450,12 +450,30 @@ const Home = (props) => {
                 <div className="home-image15">
                   <img
                     alt="image"
-                    src="https://pbs.twimg.com/profile_images/1545154799699640321/4GoTucoZ_400x400.jpg"
+                    src="https://pbs.twimg.com/profile_images/1742708054792060928/3KWnbzXL_400x400.jpg"
                     className="home-image16"
                   />
                 </div>
                 <div className="home-content08">
                   <h3 className="home-title07">HERE Wallet</h3>
+                </div>
+              </div>
+            </a>
+            <a
+              href="https://nearbalkans.orgp"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              <div className="home-card07">
+                <div className="home-image15">
+                  <img
+                    alt="image"
+                    src="https://pbs.twimg.com/profile_images/1714707760732946432/Se06pNRW_400x400.jpg"
+                    className="home-image16"
+                  />
+                </div>
+                <div className="home-content08">
+                  <h3 className="home-title07">NEAR Balkans</h3>
                 </div>
               </div>
             </a>
