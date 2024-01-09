@@ -23,6 +23,11 @@ const RedirectLinks = {
 "/schedule": "https://calendar.google.com/calendar/u/0?cid=Y19mYzMzOTYwNTJlZmQyZTdhOWJkZDk5MWJjMTdjMzZjNDg4MTI3YzYwNGVjZWZhNzU1ZWRlN2Y5ZjU3ZGZhNGRmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20",
 "/vbi": "https://docs.google.com/presentation/d/1KBFgbtRUCMS35OVduxAPBClSqdgatlkw50aWNvfcbsg/edit?usp=sharing",
 "/kickoff": "https://youtu.be/vxrPyNHczgI",
+"/potlock": "https://banyan-collective.notion.site/PotLock-Bounty-Twitter-x-Meme-Router-9bbcdd782fd64cc4b4358b6fafc25fc3?pvs=74",
+"/keypom": "https://banyan-collective.notion.site/Keypom-1611b656913b4c6d89ef57f213465e83?pvs=74",
+"/balkans": "https://banyan-collective.notion.site/NEAR-Balkans-3ea2e32fbf7e40e8a9d0b65de9021646?pvs=74",
+"/mintbase": "https://banyan-collective.notion.site/Mintbase-b5ccac634f484935bfa775c17305d060?pvs=74",
+"/metatransactions": "https://banyan-collective.notion.site/Metatransactions-635061e47c54424aada6ec5d775daef3?pvs=74",
 
 
       
