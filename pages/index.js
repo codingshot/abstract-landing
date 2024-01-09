@@ -479,7 +479,7 @@ const Home = (props) => {
             </a>
             {true &&
             <a
-              href="https://mintbase.xyz"
+              href="https://mintbase.xyz/build"
               target="_blank"
               rel="noreferrer noopener"
             >
