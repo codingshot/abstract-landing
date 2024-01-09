@@ -825,6 +825,15 @@ const Home = (props) => {
                     Keypom Builders
                   </a>
                   <a
+                    href="https://t.me/mintdev"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home-link24 button-clean button"
+                  >
+                    Mintbase Devs
+                  </a>
+                  
+                  <a
                     href="/partner"
                     target="_blank"
                     rel="noreferrer noopener"
