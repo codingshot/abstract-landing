@@ -29,6 +29,7 @@ const RedirectLinks = {
 "/mintbase": "https://banyan-collective.notion.site/Mintbase-b5ccac634f484935bfa775c17305d060?pvs=74",
 "/metatransactions": "https://banyan-collective.notion.site/Metatransactions-635061e47c54424aada6ec5d775daef3?pvs=74",
 "/aggregation": " https://docs.google.com/document/d/1c2SWUo3yesoiqSDa0rzUtaKEi74MO5fYjN5U3DLdsQo/edit?usp=sharing",
+"/pagoda": "https://banyan-collective.notion.site/Pagoda-s-Chain-Signatures-089368fa56e74f1a8494dbb8dc5643ff?pvs=4",
 
 
       
