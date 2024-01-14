@@ -356,7 +356,7 @@ const Home = (props) => {
                 <div className="home-image07">
                   <img
                     alt="BuildDAO"
-                    src="https://pbs.twimg.com/profile_images/1690850854457204736/KUXVTpZt_400x400.png"
+                    src="https://pbs.twimg.com/profile_images/1743819605074747392/l6AeP7Ne_400x400.jpg"
                     className="home-image08"
                   />
                 </div>
