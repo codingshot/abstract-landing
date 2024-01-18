@@ -32,6 +32,7 @@ const RedirectLinks = {
 "/pagoda": "https://banyan-collective.notion.site/Pagoda-s-Chain-Signatures-089368fa56e74f1a8494dbb8dc5643ff?pvs=4",
 "/submit": "https://everything.dev/efiz.near/widget/every.hashtag.view?hashtag=abstraction",
 "/100xdev-slides": "https://docs.google.com/presentation/d/1eOuaI1UEAWOYBGjQjAzCfMcaossQmDQOrt8KwvNcmw4/edit?usp=sharing",
+"/mintbase-slides": "https://docs.google.com/presentation/d/e/2PACX-1vQ2pWknAxDRSXIRgbHdaWX-MEYa_etQDeBPdI0JwLmCqpLj3sxA9alF-UrRwBdLE8GQiOs-g6bMftOR/pub?start=false&loop=false&delayms=3000&slide=id.g20c6d8cafe6_0_1",
 
 
       
