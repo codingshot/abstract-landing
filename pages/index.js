@@ -518,6 +518,27 @@ const Home = (props) => {
                 </div>
               </div>
             </a>
+                        <a
+              href="https://jutsu.ai"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              <div className="home-card09">
+                <div className="home-image19">
+                  <img
+                    alt="Jutsu"
+                    src="https://pbs.twimg.com/profile_images/1689094280013623296/gqfKr0Ap_400x400.jpg"
+                    className="home-image20"
+                  />
+                </div>
+                <div className="home-content10">
+                  <h3 className="home-title09">
+                    <span>Jutsu</span>
+                    <br></br>
+                  </h3>
+                </div>
+              </div>
+            </a>
           </div>
         </section>
         <section className="home-faq">
