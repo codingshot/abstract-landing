@@ -158,7 +158,7 @@ const Home = (props) => {
               <span>Hacks</span>
             </h1>
             <p className="home-caption">
-            Join this three week hackathon from Jan 8 - 28th to test the limits of Chain Abstraction! This includes multi-chain decentralized frontends, super cheap data availability, and account aggregation, and zkWASM execution! 
+            Join this three week hackathon from Jan 8 - Feburary 5th to test the limits of Chain Abstraction! This includes multi-chain decentralized frontends, super cheap data availability, and account aggregation, and zkWASM execution! 
             </p>
           </div>
           <div className="home-buttons">
@@ -196,8 +196,8 @@ const Home = (props) => {
 <li>Jan 22nd at 6pm ET - IRL NYC Workshop - “Introduction to Chain Abstraction”</li>
 <li>Jan 18th at 6pm PT - IRL SF Workshop - “Introduction to Chain Abstraction” by Kendall Cole, GM of Proximity Labs</li>
 <li>Jan 25th at 12pm ET - Online Workshop Pt. 4 - “zkWasm & Multi-chain Execution”</li>
-<li>Jan 28th at 11:59pm ET - Hackathon Closing Ceremony </li> 
-<li>Feb 5th at 12pm ET - Hackathon Results Announced </li>
+<li>Feb 4th at 11:59pm ET - Hackathon Closing Ceremony </li> 
+<li>Feb 12h at 12pm ET - Hackathon Results Announced </li>
 </ul>
 </p>
           </div>
@@ -210,7 +210,7 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-step1">
-              <span className="home-caption2">January 8th - January 28th</span>
+              <span className="home-caption2">January 8th - Feb 4th</span>
               <div className="home-heading3">
                 <h2 className="home-header05">Hackathon</h2>
                 <p className="home-header06">
@@ -220,7 +220,7 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-step2">
-              <span className="home-caption3">January 28 -February 3</span>
+              <span className="home-caption3">Feb  4 -February 10</span>
               <div className="home-heading4">
                 <h2 className="home-header07">Judging + Prizes</h2>
                 <p className="home-header08">
