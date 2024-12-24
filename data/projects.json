@@ -1,0 +1,200 @@
+[
+
+    {
+        "projectName": "Signet",
+        "twitter": "",
+        "url": "",
+        "projectDescription": "",
+        "bannerUrl": "",
+        "tags": [],
+        "liveChainSupports": [],
+        "stageForMainnet": "",
+        "chainSignatures": false
+    },
+{
+    "projectName": "Arkana",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": [],
+    "liveChainSupports": [],
+    "stageForMainnet": "",
+    "chainSignatures": false
+},
+{
+    "projectName": "Okto",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": [],
+    "liveChainSupports": [],
+    "stageForMainnet": ""
+    ,
+    "chainSignatures": false
+},
+{
+    "projectName": "Agoric",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": [],
+    "liveChainSupports": [],
+    "stageForMainnet": ""
+    ,
+    "chainSignatures": false
+},
+{
+    "projectName": "Router Protocol",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": [],
+    "liveChainSupports": ["NEAR"],
+    "stageForMainnet": ""
+    ,
+    "chainSignatures": false
+},
+{
+    "projectName": "Socket Protocol",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": [],
+    "liveChainSupports": [],
+    "stageForMainnet": ""
+    ,
+    "chainSignatures": true
+},
+{
+    "projectName": "Bhiconomy",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": [],
+    "liveChainSupports": [],
+    "stageForMainnet": "",
+    "chainSignatures": false
+},
+{
+    "projectName": "Web3 Auth",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": [],
+    "liveChainSupports": ["Ripple", "Solana"],
+    "stageForMainnet": "mainnet"
+    ,
+    "chainSignatures": false
+},
+{
+    "projectName": "ICP Chain Signatures",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": [],
+    "liveChainSupports": [],
+    "stageForMainnet": ""
+    ,
+    "chainSignatures": false
+},
+{
+    "projectName": "Nuffle Protocol",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": [],
+    "liveChainSupports": [],
+    "stageForMainnet": "building"
+    ,
+    "chainSignatures": true
+},
+{
+    "projectName": "Bitte Protocol",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": ["ai"],
+    "liveChainSupports": ["NEAR"],
+    "stageForMainnet": "mainnet"
+    ,
+    "chainSignatures": true
+},
+{
+    "projectName": "Templar Protocol",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": ["ai"],
+    "liveChainSupports": ["NEAR"],
+    "stageForMainnet": "building"
+    ,
+    "chainSignatures": true
+},
+{
+    "projectName": "Lit Protocol",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": ["MPC Network"],
+    "liveChainSupports": [""],
+    "stageForMainnet": "mainnet"
+    ,
+    "chainSignatures": false
+},
+{
+    "projectName": "Hot Protocol",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": ["wallet", "SDK", "MPC Network"],
+    "liveChainSupports": ["NEAR", "Solana", "Tron", "Ton"],
+    "stageForMainnet": "building",
+    "chainSignatures": true
+},
+{
+    "projectName": "WalletX",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": ["wallet", "SDK", "MPC Network"],
+    "liveChainSupports": ["NEAR", "Solana", "Tron", "Ton"],
+    "stageForMainnet": "building",
+    "chainSignatures": false
+},
+{
+    "projectName": "Clave",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": ["wallet"],
+    "liveChainSupports": ["ZkSync"],
+    "stageForMainnet": "mainnet",
+    "chainSignatures": false
+},
+{
+    "projectName": "EmailBTC",
+    "twitter": "",
+    "url": "",
+    "projectDescription": "",
+    "bannerUrl": "",
+    "tags": [],
+    "liveChainSupports": [],
+    "stageForMainnet": "mainnet",
+    "chainSignatures": true
+}
+]
